@@ -27,8 +27,8 @@ Como mejora, se realizo una refactorizacion completa aplicando buenas practicas.
 
 ## Mejora de estructura
 
+```text
 ACADEMIAREACT
-
 ├── public
 │   ├── favicon.svg
 │   └── icons.svg
@@ -59,10 +59,9 @@ ACADEMIAREACT
 ├── .gitignore
 ├── eslint.config.js
 ├── index.html
-├── package-lock.json
 ├── package.json
 └── vite.config.js
-
+```
 ## Iniciar el servidor:
 - Instalar las dependencias: npm install
 
